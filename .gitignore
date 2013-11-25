@@ -1,0 +1,10 @@
+Gemfile.lock
+.DS_Store
+*.gem
+*.rbc
+*.swp
+*.bin
+*.o
+*.exe
+*.out
+*~
